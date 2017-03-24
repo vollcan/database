@@ -1,0 +1,7 @@
+/home/vollcan/Dokumenty/Projekt/Projekt/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vollcan/Dokumenty/Projekt/Projekt/bin/Debug/Projekt.exe.mdb
+/home/vollcan/Dokumenty/Projekt/Projekt/bin/Debug/Projekt.exe
+/home/vollcan/Dokumenty/Projekt/Projekt/obj/x86/Debug/Projekt.exe
+/home/vollcan/Dokumenty/Projekt/Projekt/obj/x86/Debug/Projekt.exe.mdb
+/home/vollcan/Dokumenty/Projekt/Projekt/obj/x86/Debug/Projekt.Properties.image.jpg
+/home/vollcan/Dokumenty/Projekt/Projekt/obj/x86/Debug/Projekt.Okno.cs

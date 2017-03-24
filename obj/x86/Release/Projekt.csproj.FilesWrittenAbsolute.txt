@@ -1,0 +1,6 @@
+/home/vollcan/Dokumenty/Projekt/Projekt/obj/x86/Release/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/home/vollcan/Dokumenty/Projekt/Projekt/bin/Release/Projekt.exe.mdb
+/home/vollcan/Dokumenty/Projekt/Projekt/bin/Release/Projekt.exe
+/home/vollcan/Dokumenty/Projekt/Projekt/obj/x86/Release/Projekt.exe
+/home/vollcan/Dokumenty/Projekt/Projekt/obj/x86/Release/Projekt.exe.mdb
+/home/vollcan/Dokumenty/Projekt/Projekt/bin/Release/mono-curses.dll
